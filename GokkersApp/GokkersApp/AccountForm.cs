@@ -13,6 +13,7 @@ namespace GokkersApp
     public partial class AccountForm : Form
     {
         public ServerConnection testConnection = new ServerConnection();
+        
         bool newAccountMode;
         public AccountForm()
         {
@@ -53,6 +54,7 @@ namespace GokkersApp
                     scmd.Parameters.Clear();
                     scmd.Parameters.AddWithValue("@usr", usernameTextBox.Text);
                     scmd.Parameters.AddWithValue("@pwd", passwordTextBox.Text);
+                    testConnection.activeUserName = usernameTextBox.Text;
                     testConnection.connection.Open();
                     ///Test the connection string
                     if(scmd.ExecuteScalar().ToString()=="1")

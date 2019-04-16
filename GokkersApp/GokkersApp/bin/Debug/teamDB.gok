@@ -1,0 +1,82 @@
+{
+  "userName": "Cyborg",
+  "points": 1232134123,
+  "wins": 0,
+  "losses": 0,
+  "savedTeams": null,
+  "currentTeams": [
+    {
+      "teamName": "FluffyBears",
+      "protectedTeam": true,
+      "Players": [
+        {
+          "playerName": "James",
+          "assignedTeamName": "FluffyBears"
+        },
+        {
+          "playerName": "Tom",
+          "assignedTeamName": "FluffyBears"
+        },
+        {
+          "playerName": "Eric",
+          "assignedTeamName": "FluffyBears"
+        }
+      ]
+    },
+    {
+      "teamName": "RoughChickens",
+      "protectedTeam": true,
+      "Players": [
+        {
+          "playerName": "James",
+          "assignedTeamName": "RoughChickens"
+        },
+        {
+          "playerName": "Tom",
+          "assignedTeamName": "RoughChickens"
+        },
+        {
+          "playerName": "Eric",
+          "assignedTeamName": "RoughChickens"
+        }
+      ]
+    },
+    {
+      "teamName": "RoughChickensSluts",
+      "protectedTeam": true,
+      "Players": [
+        {
+          "playerName": "James",
+          "assignedTeamName": "RoughChickensSluts"
+        },
+        {
+          "playerName": "Tom",
+          "assignedTeamName": "RoughChickensSluts"
+        },
+        {
+          "playerName": "Eric",
+          "assignedTeamName": "RoughChickensSluts"
+        }
+      ]
+    },
+	{
+      "teamName": "Something Stupid I dunno",
+      "protectedTeam": true,
+      "Players": [
+        {
+          "playerName": "James",
+          "assignedTeamName": "Something Stupid I dunno"
+        },
+        {
+          "playerName": "Tom",
+          "assignedTeamName": "Something Stupid I dunno"
+        },
+        {
+          "playerName": "Eric",
+          "assignedTeamName": "Something Stupid I dunno"
+        }
+      ]
+    }
+  ]
+}
+}

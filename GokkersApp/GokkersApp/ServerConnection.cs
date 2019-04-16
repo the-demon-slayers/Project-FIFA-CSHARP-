@@ -17,6 +17,7 @@ namespace GokkersApp
         public string portNum;
         public string connectionString;
         public string sslM;
+        public string activeUserName;
 
         public void svLogin(string svName, string dbName, string userID, string pass, string port, string ssl)
         {

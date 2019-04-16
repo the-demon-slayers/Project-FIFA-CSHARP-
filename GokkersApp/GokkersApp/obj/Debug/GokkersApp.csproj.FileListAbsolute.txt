@@ -17,3 +17,7 @@ C:\Radius\Period 4\GokkersApp\GokkersApp\bin\Debug\MySql.Data.dll
 C:\Radius\Period 4\GokkersApp\GokkersApp\bin\Debug\Google.Protobuf.xml
 C:\Radius\Period 4\GokkersApp\GokkersApp\bin\Debug\MySql.Data.xml
 C:\Radius\Period 4\GokkersApp\GokkersApp\obj\Debug\GokkersApp.csproj.CopyComplete
+C:\Radius\Period 4\GokkersApp\GokkersApp\obj\Debug\GokkersApp.TeamListForm.resources
+C:\Radius\Period 4\GokkersApp\GokkersApp\bin\Debug\Newtonsoft.Json.dll
+C:\Radius\Period 4\GokkersApp\GokkersApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Radius\Period 4\GokkersApp\GokkersApp\bin\Debug\Newtonsoft.Json.xml
